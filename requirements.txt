@@ -1,0 +1,6 @@
+elasticsearch
+requests
+tqdm
+python-dotenv
+fastapi
+uvicorn
